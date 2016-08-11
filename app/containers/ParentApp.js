@@ -10,7 +10,6 @@ export default class ParentApp extends Component {
         <h1> HELLO WORLD! </h1>
       </div>
     )
-
   }
 }
 

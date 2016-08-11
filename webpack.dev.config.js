@@ -10,7 +10,7 @@ module.exports = {
   devtool: 'source-map',
   context: path.resolve(__dirname, ''),
   entry: [ 
-  './app/index.js'
+  './client/index.js'
   ],
   output: {
     path: path.join(__dirname, 'build'),
