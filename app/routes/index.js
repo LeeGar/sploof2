@@ -1,6 +1,6 @@
-import routes from './routes';
+import todoRoute from './todoRoute';
 
 export default {
-  routes,
+  todoRoute,
 }
 
